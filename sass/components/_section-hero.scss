@@ -14,8 +14,22 @@
   margin: auto;
   background-color: black;
    transform: scale(1);
+animation: animate125 3000ms infinite 1000ms;
    
      }
+
+// @keyframes animate125 {
+//   0% {
+//     transform: perspective(100000px) rotateY(180deg);
+//       }
+
+//   100% {
+//     transform: perspective(100000px) rotateY(-180deg);
+        
+//   }
+// }
+
+     
     
 
 .section-hero {

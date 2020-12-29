@@ -227,6 +227,7 @@ a {
   margin: auto;
   background-color: black;
   transform: scale(1);
+  animation: animate125 3000ms infinite 1000ms;
 }
 
 .section-hero {
